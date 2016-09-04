@@ -1,19 +1,4 @@
-name: lol internet
-favicon: null
-layout_spectrum: 0.675306670833379
 typography_spectrum: 0.7716287604998797
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,19 @@ color:
   lightness: 0.053476352244615555
   saturation: 0.007616834482178092
   rhythmicContrast: 0.14802339999005198
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.675306670833379
+analytics:
+  google: UA-46064295-2
+  facebook: null
+  twitter: null
+name: lol internet
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
